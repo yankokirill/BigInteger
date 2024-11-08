@@ -1,0 +1,3 @@
+/home/kirill/CLionProjects/biginteger-rational-yankokirill/build/CMakeFiles/biginteger.dir
+/home/kirill/CLionProjects/biginteger-rational-yankokirill/build/CMakeFiles/edit_cache.dir
+/home/kirill/CLionProjects/biginteger-rational-yankokirill/build/CMakeFiles/rebuild_cache.dir
